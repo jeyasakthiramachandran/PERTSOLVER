@@ -36,7 +36,9 @@ A web-based tool to create, visualize, and analyze project activities using **PE
 git clone https://github.com/<your-username>/<repository-name>.git
 ```
 
-2. 
+2. Save this as a folder in your system
+3. Go to file Explorer and open the folder
+4. double click the index.html to open it in your local browser that u set as default
 
 ## Author
 
