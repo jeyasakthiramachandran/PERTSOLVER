@@ -34,3 +34,13 @@ A web-based tool to create, visualize, and analyze project activities using **PE
 
 ```bash
 git clone https://github.com/<your-username>/<repository-name>.git
+```
+
+2. 
+
+## Author
+
+**Jeyasakthi R**  
+B.Tech in Computer Science and Business Systems  
+Passionate about web development, project management visualizations, and coding projects.
+
