@@ -40,6 +40,8 @@ git clone https://github.com/<your-username>/<repository-name>.git
 3. Go to file Explorer and open the folder
 4. double click the index.html to open it in your local browser that u set as default
 
+Check out my PERT Solver project [here](https://jeyasakthiramachandran.github.io/PERTSOLVER/).
+
 ## Author
 
 **Jeyasakthi R**  
